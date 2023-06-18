@@ -10,7 +10,7 @@ body {
 }
 
 main {
-  background-image: url("https://darknetdiaries.com/imgs/wallpapers/Hacker%20Tetris%20Desktop.jpg");
+  background-image: url(assets/img1.jpg);
   background-position: center 0%;
   background-size: cover;
   height: 100vh;
